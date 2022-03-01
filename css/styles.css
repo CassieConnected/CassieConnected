@@ -241,7 +241,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #FF5677;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -2032,7 +2032,7 @@ progress {
   --bs-table-striped-color: #000;
   --bs-table-active-bg: #dac9c2;
   --bs-table-active-color: #000;
-  --bs-table-hover-bg: #e0cec7;
+  --bs-table-hover-bg: #FF5677;
   --bs-table-hover-color: #000;
   color: #000;
   border-color: #dac9c2;
